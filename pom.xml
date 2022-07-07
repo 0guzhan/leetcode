@@ -8,7 +8,7 @@
     <dependency>
       <artifactId>junit-jupiter-engine</artifactId>
       <groupId>org.junit.jupiter</groupId>
-      <version>5.4.0</version>
+      <version>5.8.2</version>
     </dependency>
   </dependencies>
   <groupId>com.acargil</groupId>
